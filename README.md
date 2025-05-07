@@ -4,11 +4,40 @@ here is the video used for this template:
 
 https://www.youtube.com/watch?v=p59B-I67yf8&t=631s
 
-Here is a video to learn how to write markdown
+[Here is a video to learn how to write markdown](https://www.youtube.com/watch?v=eJojC3lSkwg)
 
-https://www.youtube.com/watch?v=eJojC3lSkwg
+[link to page](https://www.youtube.com/watch?v=TU_KrxpJJf0)
+
+ **bold text**
+
+*italic text*
+
+***italic and bold***
+
+```bash
+#!/bin/bash
+echo "Hello from bash"
+```
+
+```powershell
+Write-Host "Hello from PowerShell"
+```
+
+```python
+print("Hello World python")
+```
+
+```javascript
+let num = Math.random(js);
+```
+
+<img src="images/filename%20spaces.png" width="100">
+
+![image](
 
 ## Objective
+
+
 [Brief Objective - Remove this afterwards]
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
