@@ -1,7 +1,12 @@
 # TEMPLATE-PROJECT
 # PROJECTNAME
 here is the video used for this template:
+
 https://www.youtube.com/watch?v=p59B-I67yf8&t=631s
+
+Here is a video to learn how to write markdown
+
+https://www.youtube.com/watch?v=eJojC3lSkwg
 
 ## Objective
 [Brief Objective - Remove this afterwards]
