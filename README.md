@@ -1,5 +1,7 @@
 # TEMPLATE-PROJECT
 # PROJECTNAME
+here is the video used for this template:
+https://www.youtube.com/watch?v=p59B-I67yf8&t=631s
 
 ## Objective
 [Brief Objective - Remove this afterwards]
