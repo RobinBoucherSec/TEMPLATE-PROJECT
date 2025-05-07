@@ -1,43 +1,4 @@
 # TEMPLATE-PROJECT
-# PROJECTNAME
-here is the video used for this template:
-
-https://www.youtube.com/watch?v=p59B-I67yf8&t=631s
-
-[Here is a video to learn how to write markdown](https://www.youtube.com/watch?v=eJojC3lSkwg)
-
-[link to page](https://www.youtube.com/watch?v=TU_KrxpJJf0)
-
- **bold text**
-
-*italic text*
-
-***italic and bold***
-
-```bash
-#!/bin/bash
-echo "Hello from bash"
-```
-
-```powershell
-Write-Host "Hello from PowerShell"
-```
-
-```python
-print("Hello World python")
-```
-
-```javascript
-let num = Math.random(js);
-```
-
-<img src="images/filename%20spaces.png" width="100">
-
-For image upload, create a new file and add a dash/ to make it a folder.
-
-![image](https://github.com/user-attachments/assets/29cbf938-5552-418d-b4bd-97d96f52b18f)
-
-
 
 ## Objective
 
