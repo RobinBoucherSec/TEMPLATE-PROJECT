@@ -33,7 +33,11 @@ let num = Math.random(js);
 
 <img src="images/filename%20spaces.png" width="100">
 
-![image](
+For image upload, create a new file and add a dash/ to make it a folder.
+
+![image](https://github.com/user-attachments/assets/29cbf938-5552-418d-b4bd-97d96f52b18f)
+
+
 
 ## Objective
 
