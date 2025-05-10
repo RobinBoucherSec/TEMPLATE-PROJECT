@@ -1,35 +1,59 @@
-# TEMPLATE-PROJECT
-
-## Objective
+## 🎯 Title / Project Name
 
 
-[Brief Objective - Remove this afterwards]
+## 📝 Description
+My goal was to become familiar with the fundamentals of network scanning and understand how to interpret Nmap output. I wanted to gain hands-on experience in identifying active systems and open services, which are crucial first steps in penetration testing and network security assessments.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+## 🔧 Tools Used
+List the tools, platforms, and software involved:
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+Nmap
+Wireshark (optional)
+Kali Linux
+VirtualBox (if used)
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## 💡 Skills Learned
+What new skills or knowledge did you gain from this project?
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+Understanding of basic network scanning techniques
+Familiarity with interpreting Nmap output
+Improved ability to assess network security posture
+Practice setting up a secure lab environment
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+## ⚙️ Steps Taken
+Describe step-by-step how you completed the project. You can use bullet points or numbered lists.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+Set up a test lab environment using VirtualBox and Kali Linux.
+Identified the target IP range.
+Ran an initial ping scan to detect live hosts:
+bash
 
 
+1
+nmap -sn 192.168.1.0/24
+Performed a service/version scan on active hosts:
+bash
+
+
+1
+nmap -sV 192.168.1.10
+Exported the scan results for further analysis.
+📸 Screenshots
+You can include screenshots like this (replace the placeholder links):
+
+markdown
+
+
+1
+![Nmap Scan Output](screenshots/nmap-scan.png)
+If you're using external images from Imgur or another source:
+
+markdown
+
+
+1
+![Wireshark Capture](https://i.imgur.com/example-image-link.png )
+
+
+## 🔙 Back to Portfolio
+[⬅️ Back to my Cybersecurity Portfolio](https://github.com/RobinBoucherSec/RobinBoucherSec)
