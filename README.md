@@ -20,35 +20,21 @@ Familiarity with interpreting Nmap output
 Improved ability to assess network security posture
 Practice setting up a secure lab environment
 
+# Steps Overview
+1. [Here 1st](#Here-1st)
+2. [here will be the 2nd step](#here-will-be-the-2nd-step)
+3. [sha256](#sha256)
+
 ## ⚙️ Steps Taken
-Describe step-by-step how you completed the project. You can use bullet points or numbered lists.
+Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
 
-Set up a test lab environment using VirtualBox and Kali Linux.
-Identified the target IP range.
-Ran an initial ping scan to detect live hosts:
-bash
+### Initial setup
 
+well well well yes!
 
-1
-nmap -sn 192.168.1.0/24
-Performed a service/version scan on active hosts:
-bash
+### Here 1st
 
-
-1
-nmap -sV 192.168.1.10
-Exported the scan results for further analysis.
-📸 Screenshots
-You can include screenshots like this (replace the placeholder links):
-
-markdown
-
-
-1
-![Nmap Scan Output](screenshots/nmap-scan.png)
-If you're using external images from Imgur or another source:
-
-markdown
+### here will be the 2dn step
 
 
 1
