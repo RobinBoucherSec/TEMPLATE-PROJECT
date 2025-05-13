@@ -1,8 +1,10 @@
-## 🎯 Title / Project Name
+## Title / Project Name
 
 
 ## 📝 Description
 My goal was to become familiar with the fundamentals of network scanning and understand how to interpret Nmap output. I wanted to gain hands-on experience in identifying active systems and open services, which are crucial first steps in penetration testing and network security assessments.
+
+## 🎯 Objectives
 
 ## 🔧 Tools Used
 List the tools, platforms, and software involved:
