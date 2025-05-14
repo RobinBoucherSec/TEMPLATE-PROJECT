@@ -12,33 +12,34 @@ What is the goal in this project.
 
 - List the tools, platforms, and software involved with bullet points
 
-
-
 ## 💡 Skills Learned
 
 - What new skills or knowledge did you gain from this project? Go here with bullet points.
 
-
 # Steps Overview
-1. [Here 1st](#Here-1st)
-2. [here will be the 2nd step](#here-will-be-the-2nd-step)
-3. [sha256](#sha256)
+
+[Here 1st](#Here-1st)
+   
+[here will be the 2nd step](#here-will-be-the-2nd-step)
+
+[Lessons Learned](#Lessons-Learned)
+
+[Final thoughts](#Final-Thoughts)
 
 ## ⚙️ Steps Taken
 Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
 
 ### Initial setup
 
-well well well yes!
+The initial setup description with the link of the "Initial setup repo".
 
-### Here 1st
+### Here name of the 1st step
 
-### here will be the 2dn step
+### Here will be the 2dn step
 
+## Lessons Learned
 
-1
-![Wireshark Capture](https://i.imgur.com/example-image-link.png )
-
+## Final Thoughts
 
 ## 🔙 Back to Portfolio
 [⬅️ Back to my Cybersecurity Portfolio](https://github.com/RobinBoucherSec/RobinBoucherSec)
