@@ -22,9 +22,7 @@ What is the goal in this project.
    
 [here will be the 2nd step](#here-will-be-the-2nd-step)
 
-[Lessons Learned](#Lessons-Learned)
-
-[Final thoughts](#Final-Thoughts)
+[Key Takeaways & Technical Insights](#Key-Takeaways-and-Technical-Insights)
 
 ## ⚙️ Steps Taken
 Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
@@ -37,9 +35,7 @@ The initial setup description with the link of the "Initial setup repo".
 
 ### Here will be the 2dn step
 
-## Lessons Learned
-
-## Final Thoughts
+## Key Takeaways and Technical Insights
 
 ## 🔙 Back to Portfolio
 [⬅️ Back to my Cybersecurity Portfolio](https://github.com/RobinBoucherSec/RobinBoucherSec)
