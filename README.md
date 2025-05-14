@@ -2,25 +2,22 @@
 
 
 ## 📝 Description
-My goal was to become familiar with the fundamentals of network scanning and understand how to interpret Nmap output. I wanted to gain hands-on experience in identifying active systems and open services, which are crucial first steps in penetration testing and network security assessments.
+Breif description of the project.
 
 ## 🎯 Objectives
 
-## 🔧 Tools Used
-List the tools, platforms, and software involved:
+What is the goal in this project.
 
-Nmap
-Wireshark (optional)
-Kali Linux
-VirtualBox (if used)
+## 🔧 Tools Used
+
+- List the tools, platforms, and software involved with bullet points
+
+
 
 ## 💡 Skills Learned
-What new skills or knowledge did you gain from this project?
 
-Understanding of basic network scanning techniques
-Familiarity with interpreting Nmap output
-Improved ability to assess network security posture
-Practice setting up a secure lab environment
+- What new skills or knowledge did you gain from this project? Go here with bullet points.
+
 
 # Steps Overview
 1. [Here 1st](#Here-1st)
