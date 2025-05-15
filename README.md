@@ -27,6 +27,8 @@ What is the goal in this project.
 ## ⚙️ Steps Taken
 Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
 
+## Steps begin here ⬇️ 
+
 ### Initial setup
 
 The initial setup description with the link of the "Initial setup repo".
