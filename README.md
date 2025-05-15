@@ -16,7 +16,7 @@ What is the goal in this project.
 
 - What new skills or knowledge did you gain from this project? Go here with bullet points.
 
-# Steps Overview
+# ⚙️ Steps Overview
 
 [Here 1st](#Here-1st)
    
@@ -24,10 +24,10 @@ What is the goal in this project.
 
 [Key Takeaways & Technical Insights](#Key-Takeaways-and-Technical-Insights)
 
-## ⚙️ Steps Taken
-Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
 
 ## Steps begin here ⬇️ 
+Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
+
 
 ### Initial setup
 
